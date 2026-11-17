@@ -15,3 +15,5 @@ Requirements:
 ```sh
 python3 -m unittest discover -s server
 ```
+
+[Server setup and backend source](https://github.com/krashkanter/kela-server)
